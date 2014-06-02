@@ -16,6 +16,7 @@ We are looking for learning resources that teach/talk about one of the following
 
 - computic basics (binary, hex, memory, cpu) #computing
 - the history of computing #history
+- women in tech #women
 - important persons in computing/programming #person
 - open source culture #oss
 - interactions with the community on GitHub #ghsocial
@@ -93,10 +94,15 @@ _start of machine-readable section_
 
 -------------
 
-## [vimcasts](vimcasts.org)
+# [vimcasts](vimcasts.org)
 - tags: vim screencast collection donation
 - author: Drew Neil, @nelstrom
 
 # [vimadventures](vim-adventures.com)
 - author: Doron Linder, contact@vim-adventures.com
 - tags: vim game freemium
+
+# [n00bcore](n00bcore.de)
+- author: @nerdresa
+- tags: podcast collection computing donation
+- language: de
