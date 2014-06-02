@@ -14,7 +14,7 @@ What we are looking for
 
 We are looking for learning resources that teach/talk about one of the following topics. At the end of each line a hash tag is given for each topic. Please include these tags when adding new resources.
 
-- computic basics (binary, hex, memory, cpu) #computing
+- computing basics (binary, hex, memory, cpu, ...) #computing
 - the history of computing #history
 - women in tech #women
 - important persons in computing/programming #person
