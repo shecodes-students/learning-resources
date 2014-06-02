@@ -7,7 +7,7 @@ This document is a machine-readable database in markdown format. Please send us 
 
 Who we are
 ==========
-We are building [she.codes](http://now.she.codes), the social coding school for women. We are curating free online learning resources taht cover a wide range of topics needed to work as a full stack JavaScript developer. You can help us curating by sending pull requests for this file (simply hit the edit button).
+We are building [she.codes](http://now.she.codes), the social coding school for women. We are curating free online learning resources that cover a wide range of topics needed to work as a full stack JavaScript developer. You can help us curating by sending pull requests for this file (simply hit the edit button).
 
 What we are looking for
 =======================
@@ -17,7 +17,7 @@ We are looking for learning resources that teach/talk about one of the following
 - computing basics (binary, hex, memory, cpu, ...) #computing
 - the history of computing #history
 - women in tech #women
-- important persons in computing/programming #person
+- important people in computing/programming #people
 - open source culture #oss
 - interactions with the community on GitHub #ghsocial
 - social dynamics of debating online #debating
@@ -32,7 +32,7 @@ We are looking for learning resources that teach/talk about one of the following
 - JavaScript in the browser #js
 - NodeJS #nodejs
 - npm #npm
-- vim #vim
+- Vim #vim
 - git #git
 - unit testing #unittesting
 - test-driven development #tdd
@@ -46,7 +46,7 @@ We are looking for learning resources that teach/talk about one of the following
 - package management systems #pm
 - document-based databases #nosql
 - crypto and security #crypto #sec
-- debugging, profiling, optimizationof JavaScript programs #debugging #optimization #profiling
+- debugging, profiling, optimization of JavaScript programs #debugging #optimization #profiling
 - deployment #deployment
 - continous integration #ci
 - scaling web services #scaling
@@ -76,15 +76,15 @@ If you want to link to a collection of resources (a podcast feed, a blog, a codi
 
 Additional tags
 ---------------
-feel free to ddd tags to describe the topic more accurately
+Feel free to add tags to describe the topic more accurately
 
 Quality
 -------
-If the production quality is not the best, but the content is great, we still would like to hear about it. In such a case, you can add wuality fields to the entry, rating audio and video quality from 1 (poor) to 5 (professional broadcast quality)
+If the production quality is not the best, but the content is great, we still would like to hear about it. In such a case, you can add quality fields to the entry, rating audio and video quality from 1 (poor) to 5 (professional broadcast quality)
 
 Language
 --------
-We are mainly intersted in English-language resources. If however you find a non-English resource that is really good, please include it anyway and add the language field with a two-character language code (e.g. de, es, dk ..)
+We are mainly interested in English-language resources. If however you find a non-English resource that is really good, please include it anyway and add the language field with a two-character language code (e.g. de, es, dk ..)
 
 Free or payed-for content?
 --------------------------
@@ -94,8 +94,8 @@ Free or payed-for content?
 
 Author
 ------
-If convenient, please add one or multiple aauthor field, indicating the mail-address, real name or twitter handle of the author. If the link to the resource goes to a gitbub repo, you don't need to specify an author because it can be dtermined automatically. Add one author field per author and separete different means of contacting by comma within the authro field. *see examples below)
-If the content is provided by a company rather than persons, put a company field instead of author fields.
+If convenient, please add author field(s), indicating the mail-address, real name or twitter handle of the author. If the link to the resource goes to a GitHub repo, you don't need to specify an author because it can be determined automatically. Add one author field per author and separate different means of contacting by comma within the author field. *see examples below)
+If the content is provided by a company rather than a person, put a company field instead of author fields.
 
 _start of machine-readable section_
 
