@@ -1,5 +1,5 @@
-learning-resources
-==================
+Learning resources database
+===========================
 
 a collection of great tutorials/talks/screencasts/podcasts that teach programming
 
@@ -63,10 +63,12 @@ Please include one or more of these format tags
 - slide shows #slides
 - screen casts #screencast
 - tutorial #tutorial
-- gamified tutorial #game
+- if the tutorial is interactive, add #interactive
+- gamified tutorial (implies interactive) #game
 - blog post/other forms of a short or medium length article #article
 - book, readable online #book
 - repository #repo
+- video #video
 
 Collections
 -----------
@@ -93,6 +95,7 @@ Free or payed-for content?
 Author
 ------
 If convenient, please add one or multiple aauthor field, indicating the mail-address, real name or twitter handle of the author. If the link to the resource goes to a gitbub repo, you don't need to specify an author because it can be dtermined automatically. Add one author field per author and separete different means of contacting by comma within the authro field. *see examples below)
+If the content is provided by a company rather than persons, put a company field instead of author fields.
 
 _start of machine-readable section_
 
@@ -139,3 +142,16 @@ _start of machine-readable section_
 #[JavaScript challenges](https://www.gitbook.io/book/amischol/javascript_challenges)
 - author: Tomás Corral
 - tags: js book gitbook advanced
+
+#[codepen](http://codepen.io/)
+- tags: browser js editor html css collection
+
+#[Public Key Cryptography: Diffie-Hellman Key Exchange](https://www.youtube.com/watch?v=3QnD2c4Xovk)
+- video crypto
+
+#[Art of the problem](https://www.youtube.com/channel/UCotwjyJnb-4KW7bmsOoLfkg)
+- tags: video computing history youtubechannel
+
+#[Dash](https://blog.generalassemb.ly/introducing-dash/)
+- company: general assembly
+- tags: js html css tutorial interactive
