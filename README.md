@@ -3,11 +3,11 @@ Learning resources database
 
 A collection of great tutorials/talks/screencasts/podcasts that teach programming
 
-This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included.
+This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (Simply click press the Edit button or click [here](https://github.com/shecodes-students/learning-resources/edit/master/README.md))
 
 Who we are
 ==========
-We are building [she.codes](http://now.she.codes), the social coding school for women. We are curating free online learning resources that cover a wide range of topics needed to work as a full stack JavaScript developer. You can help us curating by sending pull requests for this file (simply hit the edit button).
+We are building [she.codes](http://now.she.codes), the social coding school for women. We are curating free online learning resources that cover a wide range of topics needed to work as a full stack JavaScript developer.
 
 What we are looking for
 =======================
