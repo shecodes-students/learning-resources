@@ -64,12 +64,17 @@ Please include one or more of these format tags
 - screen casts #screencast
 - tutorial #tutorial
 - gamified tutorial #game
-- blog post/other forms of text #article
+- blog post/other forms of a short or medium length article #article
+- book, readable online #book
 - repository #repo
 
 Collections
 -----------
 If you want to link to a collection of resources (a podcast feed, a blog, a coding school, a publisher of free text books), Please include the #collection tag
+
+Additional tags
+---------------
+feel free to ddd tags to describe the topic more accurately
 
 Quality
 -------
@@ -87,7 +92,7 @@ Free or payed-for content?
 
 Author
 ------
-If convenient, please add an aauthor field, indicating the mail-address, real name or github/twitter handle of the author
+If convenient, please add one or multiple aauthor field, indicating the mail-address, real name or twitter handle of the author. If the link to the resource goes to a gitbub repo, you don't need to specify an author because it can be dtermined automatically. Add one author field per author and separete different means of contacting by comma within the authro field. *see examples below)
 
 _start of machine-readable section_
 
@@ -110,3 +115,27 @@ _start of machine-readable section_
 #[Crypto 101](www.crypto101.io)
 - tags: crypto donation tutorial talk
 - author: @lvh
+
+#[hapi ninja](https://github.com/poeticninja/hapi-ninja)
+- tags: repo nodejs tutorial frmework
+
+#[regular expressions without fear](http://thechangelog.com/regular-expressions-without-fear/)
+- tags: article collection regex
+
+#[Learn JavaScript](https://www.gitbook.io/book/gitbookio/javascript)
+- tags: js book gitbook
+- author: Samy Pessé
+- author: Aaron O'Mullan
+
+#[Heroku + NodeJs](https://www.gitbook.io/book/samypesse/heroku-node)
+- tags: heroku js nodejs deployment book gitbook
+- author: Samy Pessé
+
+#[Learn markdown](https://www.gitbook.io/book/gitbookio/markdown)
+- tags: markdown book gitbook
+- author: Samy Pessé
+- author: Aaron O'Mullan
+
+#[JavaScript challenges](https://www.gitbook.io/book/amischol/javascript_challenges)
+- author: Tomás Corral
+- tags: js book gitbook advanced
