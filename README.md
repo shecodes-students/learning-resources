@@ -14,6 +14,9 @@ What we are looking for
 
 We are looking for learning resources that teach/talk about one of the following topics. At the end of each line a hash tag is given for each topic. Please include these tags when adding new resources.
 
+- computic basics (binary, hex, memory, cpu) #computing
+- the history of computing #history
+- important persons in computing/programming #person
 - open source culture #oss
 - interactions with the community on GitHub #ghsocial
 - social dynamics of debating online #debating
@@ -79,5 +82,11 @@ Author
 ------
 If convenient, please add an aauthor field, indicating the mail-address, real name or github/twitter handle of the author
 
-_Start of machine-readable section_
+_start of machine-readable section_
+
+
 -------------
+
+## [vimcasts](vimcasts.org)
+- tags: #vim #screencast #collection
+- author: Drew Neil, @nelstrom
