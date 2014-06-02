@@ -78,6 +78,12 @@ Language
 --------
 We are mainly intersted in English-language resources. If however you find a non-English resource that is really good, please include it anyway and add the language field with a two-character language code (e.g. de, es, dk ..)
 
+Free or payed-for content?
+--------------------------
+- if the content is free and the author has some way of receiving donations (flattr, gittip, ...) please add #donation
+- if the content is partly free, please add the #freemium
+- if the content is payed-for, please add #notfree
+
 Author
 ------
 If convenient, please add an aauthor field, indicating the mail-address, real name or github/twitter handle of the author
@@ -88,5 +94,9 @@ _start of machine-readable section_
 -------------
 
 ## [vimcasts](vimcasts.org)
-- tags: #vim #screencast #collection
+- tags: vim screencast collection donation
 - author: Drew Neil, @nelstrom
+
+# [vimadventures](vim-adventures.com)
+- author: Doron Linder, contact@vim-adventures.com
+- tags: vim game freemium
