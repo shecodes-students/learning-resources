@@ -155,3 +155,7 @@ _start of machine-readable section_
 #[Dash](https://blog.generalassemb.ly/introducing-dash/)
 - company: general assembly
 - tags: js html css tutorial interactive
+
+#[browserify handbook](https://github.com/substack/browserify-handbook)
+- thas: js pm browser repo
+- author: substack
