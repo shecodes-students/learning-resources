@@ -1,7 +1,7 @@
 Learning resources database
 ===========================
 
-a collection of great tutorials/talks/screencasts/podcasts that teach programming
+A collection of great tutorials/talks/screencasts/podcasts that teach programming
 
 This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included.
 
