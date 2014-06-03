@@ -133,20 +133,20 @@ _start of machine-readable section_
 
 -------------
 
-# [vimcasts](vimcasts.org)
+# [vimcasts](http://vimcasts.org)
 - tags: vim screencast collection donation
 - author: Drew Neil, @nelstrom
 
-# [vimadventures](vim-adventures.com)
+# [vimadventures](http://vim-adventures.com)
 - author: Doron Linder, contact@vim-adventures.com
 - tags: vim game freemium
 
-# [n00bcore](n00bcore.de)
+# [n00bcore](http://n00bcore.de)
 - author: @nerdresa
 - tags: podcast collection computing donation
 - language: de
 
-#[Crypto 101](www.crypto101.io)
+#[Crypto 101](http://www.crypto101.io)
 - tags: crypto donation tutorial talk
 - author: @lvh
 
