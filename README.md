@@ -24,7 +24,7 @@ If you are even more awesome, add the twitter handle of the original author and 
 
 ## Add hashtags
 
-And if you want to go yet another step further towards insane awesomeness, include hashtags for media format, topic and donation model. See [below](#What we are looking for) for a number of hashtags that we recommend.
+And if you want to go yet another step further towards insane awesomeness, include hashtags for media format, topic and donation model. See [below](#what-we-are-looking-for) for a number of hashtags that we recommend.
 
 ### Example
 `contribute @shecodes_ Vimcasts vimcasts.org #vim #collection #screencast #donation @nelstrom`
