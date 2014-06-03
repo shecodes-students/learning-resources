@@ -15,12 +15,14 @@ where `{link}` is the link to the learning resource. (Shortend links are okay)
 `contribite @shecodes_ www.crypto101.io`
 
 ## Add meta data
-If you are even more awesome, add the twitter handle of the original author and, to make your tweet more redable, the title of the learning resource.
+If you are even more awesome, add the twitter handle of the original author and – to make your tweet more redable – the title of the thing you add.
 
 `contribute @shecodes_ {title} {link} @{author}`
 
 ### Example
 `contribute @shecodes_ Stream handbook github.com/substack/stream-handbook @substack`
+
+## Add hashtags
 
 And if you want to go yet another step further towards insane awesomeness, include hashtags for media format, topic and donation model. See [below](#What we are looking for) for a number of hashtags that we recommend.
 
@@ -98,11 +100,20 @@ Please include one or more of these format tags
 
 Collections
 -----------
-If you want to link to a collection of resources (a podcast feed, a blog, a coding school, a publisher of free text books), Please include the #collection tag
+If you want to link to a collection of resources (a podcast's home page, a blog, a coding school, a publisher of free text books), Please include the #collection tag
+
+Free or payed-for content?
+--------------------------
+- if the content is free and the author has some way of receiving donations (flattr, gittip, ...) please add #donation
+- if the content is partly free, please add the #freemium
+- if the content is payed-for, please add #notfree
 
 Additional tags
 ---------------
 Feel free to add tags to describe the topic more accurately
+
+The following only applies if you contribute via Github
+=======================================================
 
 Quality
 -------
@@ -111,12 +122,6 @@ If the production quality is not the best, but the content is great, we still wo
 Language
 --------
 We are mainly interested in English-language resources. If however you find a non-English resource that is really good, please include it anyway and add the language field with a two-character language code (e.g. de, es, dk ..)
-
-Free or payed-for content?
---------------------------
-- if the content is free and the author has some way of receiving donations (flattr, gittip, ...) please add #donation
-- if the content is partly free, please add the #freemium
-- if the content is payed-for, please add #notfree
 
 Author
 ------
