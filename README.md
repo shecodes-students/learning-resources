@@ -15,7 +15,7 @@ where `{link}` is the link to the learning resource. (Shortend links are okay)
 `contribite @shecodes_ www.crypto101.io`
 
 ## Add meta data
-If you are even more awesome, add the twitter handle of the original author and – to make your tweet more redable – the title of the thing you add.
+If you are even more awesome, add the twitter handle of the original author and – to make your tweet more readable – the title of the thing you add.
 
 `contribute @shecodes_ {title} {link} @{author}`
 
@@ -29,7 +29,7 @@ And if you want to go yet another step further towards insane awesomeness, inclu
 ### Example
 `contribute @shecodes_ Vimcasts vimcasts.org #vim #collection #screencast #donation @nelstrom`
 
-Contributee via Github
+Contribute via Github
 ======================
 This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (Simply click [here](https://github.com/shecodes-students/learning-resources/edit/master/README.md) to edit in the convenience of your browser)
 
@@ -84,7 +84,7 @@ We are looking for learning resources that teach/talk about one of the following
 
 Media formats
 -------------
-Please include one or more of these format tags
+Please include one or more of these format tags.
 
 - podcast episodes #podcast
 - conference talks #talk
@@ -100,7 +100,7 @@ Please include one or more of these format tags
 
 Collections
 -----------
-If you want to link to a collection of resources (a podcast's home page, a blog, a coding school, a publisher of free text books), Please include the #collection tag
+If you want to link to a collection of resources (a podcast's home page, a blog, a coding school, a publisher of free text books), please include the #collection tag.
 
 Free or payed-for content?
 --------------------------
