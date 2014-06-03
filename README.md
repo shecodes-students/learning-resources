@@ -138,7 +138,7 @@ _start of machine-readable section_
 - author: Drew Neil, @nelstrom
 
 # [vimadventures](http://vim-adventures.com)
-- author: Doron Linder, contact@vim-adventures.com
+- author: @doronlinder, Doron Linder, contact@vim-adventures.com
 - tags: vim game freemium
 
 # [n00bcore](http://n00bcore.de)
