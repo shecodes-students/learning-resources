@@ -1,9 +1,35 @@
 Learning resources database
 ===========================
 
-A collection of great tutorials/talks/screencasts/podcasts that teach programming
+A collection of the most awesome tutorials/talks/screencasts/podcasts that teach programming
 
-This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (Simply click press the Edit button or click [here](https://github.com/shecodes-students/learning-resources/edit/master/README.md))
+Contribute via twitter!
+=======================
+You can contribute by tweeting in this format:
+
+`contribute @shecodes_ {link}`
+
+where link is the {link} to the learning resource. (Shortend links are okay)
+
+### Example
+`contribite @shecodes_ www.crypto101.io`
+
+## Add meta data
+If you are even more awesome, add the twitter handle of the original author and, to make your tweet more redable, the title of the learning resource.
+
+`contribute @shecodes_ {title} {link} @{author}`
+
+### Example
+`contribute @shecodes_ Stream handbook github.com/substack/stream-handbook @substack`
+
+And if you want to go yet another step further towards insane awesomeness, include hashtags for media format, topic and donation model. See [below](#What we are looking for) for a number of hashtags that we recommend.
+
+### Example
+`contribute @shecodes_ Vimcasts vimcasts.org #vim #collection #screencast #donation @nelstrom`
+
+Contributee via Github
+======================
+This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (Simply click [here](https://github.com/shecodes-students/learning-resources/edit/master/README.md) to edit in the convenience of your browser)
 
 Who we are
 ==========
