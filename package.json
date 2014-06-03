@@ -1,0 +1,28 @@
+{
+  "name": "learning-resources",
+  "version": "0.0.1",
+  "description": "harvet contributions to @shecodes_ collection of awesome lerning materials from twitter",
+  "scripts": {
+    "harvest": "coffee harvest.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shecodes-students/learning-resources.git"
+  },
+  "keywords": [
+    "shecodes",
+    "tutorials",
+    "curating",
+    "learning"
+  ],
+  "author": "@shecodes_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shecodes-students/learning-resources/issues"
+  },
+  "homepage": "https://github.com/shecodes-students/learning-resources",
+  "dependencies": {
+    "twit": "^1.1.15",
+    "coffee": "0.0.1"
+  }
+}
