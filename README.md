@@ -9,7 +9,7 @@ You can contribute by tweeting in this format:
 
 `contribute @shecodes_ {link}`
 
-where link is the {link} to the learning resource. (Shortend links are okay)
+where `{link}` is the link to the learning resource. (Shortend links are okay)
 
 ### Example
 `contribite @shecodes_ www.crypto101.io`
