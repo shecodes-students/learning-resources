@@ -31,7 +31,7 @@ And if you want to go yet another step further towards insane awesomeness, inclu
 
 Contribute via Github
 ======================
-This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (Simply click [here](https://github.com/shecodes-students/learning-resources/edit/master/README.md) to edit in the convenience of your browser)
+This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (The easiset way to do that is to click the _Edit_ button on the right hand side above the main headline, then you can edit in the convenience of your browser.)
 
 Who we are
 ==========
