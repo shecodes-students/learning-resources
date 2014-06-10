@@ -9,7 +9,7 @@ twitter_options = {
     count: 200
 }
 data = fs.readFileSync path.join(__dirname, 'README.md'), 'utf8'
-data.replace /last imported tweet\:\s*(.*)/, (match, id)  ->
+data.replace /last imported tweet\:\s*(.*)/g, (match, id)  ->
     twitter_options.since_id =  id
 
 console.error 'last tweet id was:', twitter_options.since_id
