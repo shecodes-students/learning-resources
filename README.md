@@ -125,7 +125,7 @@ We are mainly interested in English-language resources. If however you find a no
 
 Author
 ------
-If convenient, please add author field(s), indicating the mail-address, real name or twitter handle of the author. If the link to the resource goes to a GitHub repo, you don't need to specify an author because it can be determined automatically. Add one author field per author and separate different means of contacting by comma within the author field. *see examples below)
+If convenient, please add author field(s), indicating the mail-address, real name or twitter handle of the author. If the link to the resource goes to a GitHub repo, you don't need to specify an author because it can be determined automatically. Add one author field per author and separate different means of contacting by comma within the author field. (see examples below)
 If the content is provided by a company rather than a person, put a company field instead of author fields.
 
 _start of machine-readable section_
@@ -137,18 +137,10 @@ _start of machine-readable section_
 - tags: vim screencast collection donation
 - author: Drew Neil, @nelstrom
 
-# [vimadventures](http://vim-adventures.com)
-- author: @doronlinder, Doron Linder, contact@vim-adventures.com
-- tags: vim game freemium
-
 # [n00bcore](http://n00bcore.de)
 - author: @nerdresa
 - tags: podcast collection computing donation
 - language: de
-
-#[Crypto 101](http://www.crypto101.io)
-- tags: crypto donation tutorial talk
-- author: @lvh
 
 #[hapi ninja](https://github.com/poeticninja/hapi-ninja)
 - tags: repo nodejs tutorial frmework
@@ -194,3 +186,49 @@ _start of machine-readable section_
 ---
 last imported tweet: 473804770613141500
 
+#[net neutrality explained](https://www.youtube.com/watch?v=NAxMyTwmu_M)
+- tags: video Internet
+- contributed_by: @regulargonzales
+- tweet_id: 474251643161415700
+
+#[hcf DCPU16](http://bit.ly/U9RujN)
+- tags: assembler interactive computing
+- contributed_by: @regulargonzales
+- tweet_id: 473961572230897660
+
+#[8 bit assembler simulator](http://bit.ly/U9QtYN)
+- tags: assembler interactive computing
+- contributed_by: @regulargonzales
+- author: Marco Schweighauser
+- tweet_id: 473959720667996160
+
+#[Diskursformen im Internet](http://bit.ly/1km6RjC)
+- tags: debating podcast flattr lang_de
+- contributed_by: @regulargonzales
+- author: Linus Neumann
+- author: Fefe
+- author: Frank Rieger
+- tweet_id: 473821418179035140
+
+#[The Changelog 95: Civic hacking](http://bit.ly/1km4ayH)
+- tags: podcast
+- aauthor: @TheChangelog
+- aauthor: @michalmigurski
+- aauthor: @ahhrrr
+- aauthor: @codeforamerica
+- contributed_by: @regulargonzales
+- tweet_id: 473818128812867600
+
+#[Vim Adventures](http://vim-adventures.com)
+- tags: vim game freemium
+- aauthor: @doronlinder
+- contributed_by: @LenaKari
+- tweet_id: 473810034720505860
+
+#[Crypto 101](http://j.mp/1jOnJK2)
+- tags: crypto donation tutorial talk
+- aauthor: @lvh
+- contributed_by: @regulargonzales
+- tweet_id: 473804770613141500
+
+last imported tweet: 475021074548408300
