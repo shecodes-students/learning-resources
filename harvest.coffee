@@ -3,10 +3,21 @@ fs = require 'fs'
 
 Twit = require 'twit'
 
+fs = require 'fs'
+
+twitter_options = {
+    count: 200
+}
+data = fs.readFileSync path.join(__dirname, 'README.md'), 'utf8'
+data.replace /last imported tweet\:\s*(.*)/, (match, id)  ->
+    twitter_options.since_id =  id
+
+console.error 'last tweet id was:', twitter_options.since_id
+
 config = JSON.parse fs.readFileSync path.join process.env.HOME, '.twit-cli'
 twit = new Twit config
 
-twit.get 'statuses/mentions_timeline', { count: 200 }, (err, data, response) ->
+twit.get 'statuses/mentions_timeline', twitter_options, (err, data, response) ->
     for {id, user, text, entities} in data
         if text.match(/^contribute\s+@shecodes/i) is null then continue
         #console.log id, user.screen_name, text, entities.urls
@@ -32,7 +43,9 @@ twit.get 'statuses/mentions_timeline', { count: 200 }, (err, data, response) ->
             console.log "#[#{text.trim()}](#{urls[0]})"
             if tags?
                 console.log "- tags: #{tags.join ' '}"
+            i = 0
             for author in mentions
+                if i++ is 0 then continue # first mention always is @shecodes_ 
                 console.log "- aauthor: @#{author}"
             console.log "- contributed_by: @#{user.screen_name}"
             console.log '- tweet_id: ' + id
