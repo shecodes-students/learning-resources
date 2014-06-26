@@ -33,7 +33,7 @@ The Bookmarklet
 ---------------
 Create a contribute tweet with a link to the website you are currently looking at by clicking one button in your browser! Just drag the following link to your bookmark bar and click it whenever you see a great learning resource that you want to share with us!
 
-[Contribute to she.codes](javascript:(function(\){var e=document.location.href;message=%22contribute @shecodes_ %22+document.title+%22 %22+e,document.location.href=%22http://twitter.com/home?status=%22+encodeURI(message\)}\)(\))
+<a href="javascript:(function(){var e=document.location.href;message=%22contribute @shecodes_ %22+document.title+%22 %22+e,document.location.href=%22http://twitter.com/home?status=%22+encodeURI(message)})()">Contribute to she.codes</a>
 
 Contribute via Github
 ======================
