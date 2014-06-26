@@ -70,7 +70,7 @@ We are looking for learning resources that teach/talk about one of the following
 - RESTful APIs #rest
 - code resuse #reuse
 - design patterns #patterns
-- the UNIX philosophy #unixmanagement
+- the UNIX philosophy #unix
 - package management systems #pm
 - document-based databases #nosql
 - crypto and security #crypto #sec
@@ -234,7 +234,7 @@ last imported tweet: 473804770613141500
 last imported tweet: 475021074548408300
 
 #[Learn JS visually](https://www.kickstarter.com/projects/programming/learn-javascript-visually)
-- tags: book js
+- tags: book js notfree
 - author: Ivelin Demirov
 - contributed_by: @regulargonzales
 - tweet_id: 482093885456666600
