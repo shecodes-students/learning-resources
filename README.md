@@ -12,7 +12,7 @@ You can contribute by tweeting in this format:
 where `{link}` is the link to the learning resource. (Shortend links are okay)
 
 ### Example
-`contribute @shecodes_ www.crypto101.io`
+`contribite @shecodes_ www.crypto101.io`
 
 ## Add meta data
 If you are even more awesome, add the twitter handle of the original author and – to make your tweet more readable – the title of the thing you add.
@@ -255,6 +255,10 @@ last imported tweet: 475021074548408300
 - aauthor: @rem
 - contributed_by: @regulargonzales
 - tweet_id: 476819347114324000
+
+#[JSFiddle](http://jsfiddle.com/)
+- tags: js css html editor
+- aauthor: @jsfiddle
 
 #[Crockford on JavaScript](http://yuiblog.com/crockford/)
 - tags: js video collection
