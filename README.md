@@ -232,3 +232,33 @@ last imported tweet: 473804770613141500
 - tweet_id: 473804770613141500
 
 last imported tweet: 475021074548408300
+
+#[Learn JS visually](https://www.kickstarter.com/projects/programming/learn-javascript-visually)
+- tags: book js
+- author: Ivelin Demirov
+- contributed_by: @regulargonzales
+- tweet_id: 482093885456666600
+
+#[vim for (php) programmers](http://www.slideshare.net/ZendCon/vim-for-php-programmers-presentation)
+- tags: vim slides
+- aauthor: @a
+- contributed_by: @regulargonzales
+- tweet_id: 477762090577711100
+
+#[scotch.io](http://scotch.io/)
+- tags: collection tutorial nodejs js css html
+- contributed_by: @regulargonzales
+- tweet_id: 477134975343812600
+
+#[JSBin](http://jsbin.com/)
+- tags: js css html editor
+- aauthor: @rem
+- contributed_by: @regulargonzales
+- tweet_id: 476819347114324000
+
+#[Crockford on JavaScript](http://yuiblog.com/crockford/)
+- tags: js video collection
+- contributed_by: @regulargonzales
+- tweet_id: 476478048192442400
+
+last imported tweet: 482093885456666600
