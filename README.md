@@ -29,6 +29,12 @@ And if you want to go yet another step further towards insane awesomeness, inclu
 ### Example
 `contribute @shecodes_ Vimcasts vimcasts.org #vim #collection #screencast #donation @nelstrom`
 
+The Bookmarklet
+---------------
+Create a contribute tweet with a link to the website you are currently looking at by clicking one button in your browser! Just drag the following link to your bookmark bar and click it whenever you see a great learning resource that you want to share with us!
+
+[Contribute to she.codes](javascript:(function(\){var e=document.location.href;message=%22contribute @shecodes_ %22+document.title+%22 %22+e,document.location.href=%22http://twitter.com/home?status=%22+encodeURI(message\)}\)(\))
+
 Contribute via Github
 ======================
 This document is a machine-readable database in markdown format. Please send us pull requests if you found a great tutorial that should be included. (The easiset way to do that is to click the _Edit_ button on the right hand side above the main headline, then you can edit in the convenience of your browser.)
