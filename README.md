@@ -31,9 +31,7 @@ And if you want to go yet another step further towards insane awesomeness, inclu
 
 The Bookmarklet
 ---------------
-Create a contribute tweet with a link to the website you are currently looking at by clicking one button in your browser! Just drag the following link to your bookmark bar and click it whenever you see a great learning resource that you want to share with us!
-
-<a href="javascript:(function(){var e=document.location.href;message=%22contribute @shecodes_ %22+document.title+%22 %22+e,document.location.href=%22http://twitter.com/home?status=%22+encodeURI(message)})()">Contribute to she.codes</a>
+Create a contribute tweet with a link to the website you are currently looking at by clicking one button in your browser! share with us in [one easy step](http://now.she.codes/learning-resources/)
 
 Contribute via Github
 ======================
