@@ -136,6 +136,8 @@ _start of machine-readable section_
 
 
 -------------
+# [NodeSchool](http://nodeschool.io/)
+- tags: collection nodejs
 
 # [vimcasts](http://vimcasts.org)
 - tags: vim screencast collection donation
