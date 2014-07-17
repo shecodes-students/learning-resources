@@ -31,9 +31,7 @@ And if you want to go yet another step further towards insane awesomeness, inclu
 
 The Bookmarklet
 ---------------
-Create a contribute tweet with a link to the website you are currently looking at by clicking one button in your browser! Just drag the following link to your bookmark bar and click it whenever you see a great learning resource that you want to share with us!
-
-<a href="javascript:(function(){var e=document.location.href;message=%22contribute @shecodes_ %22+document.title+%22 %22+e,document.location.href=%22http://twitter.com/home?status=%22+encodeURI(message)})()">Contribute to she.codes</a>
+Create a contribute tweet with a link to the website you are currently looking at by clicking one button in your browser! share with us in [one easy step](http://now.she.codes/learning-resources/)
 
 Contribute via Github
 ======================
@@ -218,22 +216,22 @@ last imported tweet: 473804770613141500
 
 #[The Changelog 95: Civic hacking](http://bit.ly/1km4ayH)
 - tags: podcast
-- aauthor: @TheChangelog
-- aauthor: @michalmigurski
-- aauthor: @ahhrrr
-- aauthor: @codeforamerica
+- author: @TheChangelog
+- author: @michalmigurski
+- author: @ahhrrr
+- author: @codeforamerica
 - contributed_by: @regulargonzales
 - tweet_id: 473818128812867600
 
 #[Vim Adventures](http://vim-adventures.com)
 - tags: vim game freemium
-- aauthor: @doronlinder
+- author: @doronlinder
 - contributed_by: @LenaKari
 - tweet_id: 473810034720505860
 
 #[Crypto 101](http://j.mp/1jOnJK2)
 - tags: crypto donation tutorial talk
-- aauthor: @lvh
+- author: @lvh
 - contributed_by: @regulargonzales
 - tweet_id: 473804770613141500
 
@@ -247,7 +245,7 @@ last imported tweet: 475021074548408300
 
 #[vim for (php) programmers](http://www.slideshare.net/ZendCon/vim-for-php-programmers-presentation)
 - tags: vim slides
-- aauthor: @a
+- author: @a
 - contributed_by: @regulargonzales
 - tweet_id: 477762090577711100
 
@@ -258,13 +256,13 @@ last imported tweet: 475021074548408300
 
 #[JSBin](http://jsbin.com/)
 - tags: js css html editor
-- aauthor: @rem
+- author: @rem
 - contributed_by: @regulargonzales
 - tweet_id: 476819347114324000
 
 #[JSFiddle](http://jsfiddle.com/)
 - tags: js css html editor
-- aauthor: @jsfiddle
+- author: @jsfiddle
 
 #[Crockford on JavaScript](http://yuiblog.com/crockford/)
 - tags: js video collection

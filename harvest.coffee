@@ -46,7 +46,7 @@ twit.get 'statuses/mentions_timeline', twitter_options, (err, data, response) ->
             i = 0
             for author in mentions
                 if i++ is 0 then continue # first mention always is @shecodes_ 
-                console.log "- aauthor: @#{author}"
+                console.log "- author: @#{author}"
             console.log "- contributed_by: @#{user.screen_name}"
             console.log '- tweet_id: ' + id
             console.log ''
