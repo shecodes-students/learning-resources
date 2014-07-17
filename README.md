@@ -272,3 +272,133 @@ last imported tweet: 475021074548408300
 - tweet_id: 476478048192442400
 
 last imported tweet: 482093885456666600
+#[Screencasts - Bocoup](http://bocoup.com/education/online/screencasts/)
+- tags: screencast collection js nodejs
+- aauthor: @bocoup
+- contributed_by: @regulargonzales
+- tweet_id: 489881726832082940
+
+#[Learn CSS Layout](http://learnlayout.com/)
+- tags: css tutorial
+- aauthor: @bocoup
+- contributed_by: @regulargonzales
+- tweet_id: 489880953838637060
+
+#[JavaScript for Cats](http://jsforcats.com/)
+- tags: tutorial js
+- aauthor: @maxogden
+- contributed_by: @regulargonzales
+- tweet_id: 489877555550625800
+
+#[rvagg/learnyounode](https://github.com/rvagg/learnyounode)
+- tags: nodejs tutorial interactive
+- contributed_by: @regulargonzales
+- tweet_id: 488585833235374100
+
+#[The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58)
+- tags: movie Internet legal society
+- contributed_by: @regulargonzales
+- tweet_id: 486453039063392260
+
+#[substack/browserify-adventure](https://github.com/substack/browserify-adventure)
+- tags: 
+- aauthor: @substack
+- contributed_by: @regulargonzales
+- tweet_id: 486113835305431040
+
+#[Teach yo'self: A guide to online graphic design education](http://99designs.com/designer-blog/2013/04/02/online-graphic-design-courses/)
+- tags: design collection
+- aauthor: @99designs
+- contributed_by: @regulargonzales
+- tweet_id: 485341961839452160
+
+#[Command Line Basics 6: Using SSH and SCP](https://www.youtube.com/watch?v=rm6pewTcSro)
+- tags: screencast ssh scp cli
+- aauthor: @add1sun
+- aauthor: @drupalizeme
+- contributed_by: @regulargonzales
+- tweet_id: 484472176553517060
+
+#[Handy Command Line Shortcuts](https://www.youtube.com/watch?v=529xcJxH84E)
+- tags: screencast cli
+- aauthor: @drupalizeme
+- contributed_by: @regulargonzales
+- tweet_id: 484463748904939500
+
+#[Introduction to Vi/Vim](https://www.youtube.com/watch?v=dyXK3d9Nxsw)
+- tags: video vim moving
+- aauthor: @drupalizeme
+- contributed_by: @regulargonzales
+- tweet_id: 484459735706763260
+
+#[CLI Basics 1: Moving Around the Command Line](https://www.youtube.com/watch?v=bE9DyH43C2I)
+- tags: pwd ls less cd man clear pipe
+- aauthor: @drupalizeme
+- contributed_by: @regulargonzales
+- tweet_id: 484455171582595100
+
+#[Writing on GitHub-pages](https://www.youtube.com/watch?v=p8yKoPaDqiA)
+- tags: documentation markdown asciidoc gh prosediff
+- aauthor: @githubtraining
+- contributed_by: @regulargonzales
+- tweet_id: 484447468781051900
+
+#[Collaboration with Git and GitHub](https://www.youtube.com/watch?v=SCZF6I-Rc4I)
+- tags: screencast github
+- aauthor: @githubtraining
+- contributed_by: @regulargonzales
+- tweet_id: 484435398014558200
+
+#[What is VCS? (Git-SCM)](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=TLkigdfIP6P6qY21uwhrI_zXYA9DH80_m3)
+- tags: git vcs video
+- aauthor: @githubtraining
+- contributed_by: @regulargonzales
+- tweet_id: 484431677838876700
+
+#[The Basics of Git and GitHub](https://www.youtube.com/watch?v=U8GBXvdmHT4)
+- tags: screencast git github
+- aauthor: @githubtraining
+- contributed_by: @regulargonzales
+- tweet_id: 484429396691140600
+
+#[Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
+- tags: github
+- aauthor: @github
+- contributed_by: @regulargonzales
+- tweet_id: 484424739554091000
+
+#[Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+- tags: markdown, github
+- aauthor: @github
+- contributed_by: @regulargonzales
+- tweet_id: 484423443904225300
+
+#[Contributing to Open Source on GitHub · GitHub Guides](https://guides.github.com/activities/contributing-to-open-source/)
+- tags: github, opensource
+- aauthor: @github
+- contributed_by: @regulargonzales
+- tweet_id: 484423240467906560
+
+#[Emoji cheat sheet for Campfire and GitHub](http://www.emoji-cheat-sheet.com/)
+- tags: github
+- aauthor: @arvid_a
+- contributed_by: @regulargonzales
+- tweet_id: 484422094776963100
+
+#[Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)
+- tags: git
+- aauthor: @github
+- contributed_by: @regulargonzales
+- tweet_id: 484416969874350100
+
+#[Git Pull With Automatic Rebase - Steven Harman](http://stevenharman.net/git-pull-with-automatic-rebase)
+- tags: git
+- contributed_by: @shecodes_
+- tweet_id: 483965134629376000
+
+#[Learn JS visually Ivelin Demirov](https://www.kickstarter.com/projects/programming/learn-javascript-visually)
+- tags: book js
+- contributed_by: @regulargonzales
+- tweet_id: 482093885456666600
+
+last imported tweet: 489881726832082940
