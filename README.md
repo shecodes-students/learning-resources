@@ -401,4 +401,18 @@ last imported tweet: 482093885456666600
 - contributed_by: @regulargonzales
 - tweet_id: 482093885456666600
 
+#[Turing: the halt problem](https://www.youtube.com/watch?v=macM_MtS_w4&src_vid=dNRDvLACg5Q)
+- tags: video
+- author: Computerphile
+
+#[Tring machine peimer](https://www.youtube.com/watch?v=DILF8usqp7M)
+- tags: video
+- author: Computerphile
+
+# [Busy Beaver](https://www.youtube.com/watch?v=CE8UhcyJS0I)
+- tags: video
+- author: Computerphile
+
+
+
 last imported tweet: 489881726832082940
