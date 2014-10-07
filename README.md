@@ -405,7 +405,7 @@ last imported tweet: 482093885456666600
 - tags: video
 - author: Computerphile
 
-#[Tring machine peimer](https://www.youtube.com/watch?v=DILF8usqp7M)
+#[Turing machine primer](https://www.youtube.com/watch?v=DILF8usqp7M)
 - tags: video
 - author: Computerphile
 
