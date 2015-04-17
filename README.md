@@ -416,3 +416,95 @@ last imported tweet: 482093885456666600
 
 
 last imported tweet: 489881726832082940
+#[Carmen's comments on Rock Paper Scissors](http://www.codecademy.com/forum_questions/50d3828b98acd8eb16000862)
+- tags: 
+- contributed_by: @gasimover
+- tweet_id: 588991773416038400
+
+#[Mac OS X: often used UNIX keys on the German keyboard (Blogfinger)](https://blogs.oracle.com/blogfinger/entry/mac_os_x_often_used)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 556074839761780740
+
+#[Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 555778996294926340
+
+#[When Women Stopped Coding : Planet Money : NPR](http://www.npr.org/blogs/money/2014/10/17/356944145/episode-576-when-women-stopped-coding)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 524449362269986800
+
+#[Visual 6502 in JavaScript](http://visual6502.org/JSSim/expert.html)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 520931330377256960
+
+#[Turing Machines Explained - Computerphile - YouTube](https://www.youtube.com/watch?v=dNRDvLACg5Q)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 519075349280194560
+
+#[The Strange Life and Death of Dr Turing - Part 2 of 2 - YouTube](https://www.youtube.com/watch?v=5LHFzNMgWzw)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 519073717691768800
+
+#[The Strange Life and Death of Dr Turing - Part 1 of 2 - YouTube](https://www.youtube.com/watch?v=gyusnGbBSHE)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 519068256494047200
+
+#[Breaking the Code: Biography of Alan Turing (Derek Jacobi, BBC, 1996) - YouTube](https://www.youtube.com/watch?v=S23yie-779k)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 519060727181500400
+
+#[What is the maximum Bandwidth? - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=0OOmSyaoAt0)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 518909229575331840
+
+#[Every picture is made of waves - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=mEN7DTdHbAU)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 518905502692962300
+
+#[The Web Is Not The Net - YouTube](https://www.youtube.com/watch?v=scWj1BMRHUA)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 518868186389692400
+
+#[How Does a Transistor Work? - YouTube](https://www.youtube.com/watch?v=IcrBqCFLHIY)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 518848640345845760
+
+#[Women in Tech - Overcoming Impostor Syndrome - YouTube](https://www.youtube.com/watch?v=do0j25i5uAw)
+- tags: 
+- contributed_by: @LenaKari
+- tweet_id: 518405403344781300
+
+#[How do I ask a good question? - Help Center - Stack Overflow](http://stackoverflow.com/help/how-to-ask)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 518347781636108300
+
+#[What to do when your friend is your client](http://skillcrush.com/2014/09/16/friend-client/?hvid=PaoUn)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 512923492589637600
+
+#[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
+- tags: 
+- contributed_by: @regulargonzales
+- tweet_id: 493160961671700500
+
+#[Screencasts - Bocoup](http://bocoup.com/education/online/screencasts/)
+- tags: screencast collection js nodejs
+- author: @bocoup
+- contributed_by: @regulargonzales
+- tweet_id: 489881726832082940
+
+last imported tweet: 588991773416038400
